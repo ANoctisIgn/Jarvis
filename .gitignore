@@ -1,0 +1,6 @@
+.env
+.cache/
+donnees/
+ancien/
+modeles/
+__pycache__/

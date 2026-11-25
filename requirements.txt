@@ -1,0 +1,17 @@
+numpy>=1.24,<3
+sounddevice>=0.4.6,<0.6
+python-dotenv>=1.0,<2
+edge-tts>=7.3.1
+pygame>=2.5
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+groq>=1.0
+pyautogui>=0.9
+openwakeword>=0.6.0
+scipy>=1.11
+websockets>=13
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+pillow>=10
+psutil>=5.9
+vosk>=0.3.45
